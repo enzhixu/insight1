@@ -1,0 +1,10 @@
+/shuttle/missions/sts-71/movies/sts-71-launch.mpg, 1353619164bytes
+/shuttle/missions/sts-71/movies/sts-71-tcdt-crew-walkout.mpg, 1303773664bytes
+/, 1090663438bytes
+/shuttle/missions/sts-53/movies/sts-53-launch.mpg, 850374772bytes
+/shuttle/countdown/count.gif, 698375950bytes
+/shuttle/missions/sts-71/movies/sts-71-mir-dock.mpg, 576614327bytes
+/shuttle/missions/sts-71/movies/crew-arrival-t38.mpg, 411669376bytes
+/shuttle/countdown/video/livevideo.gif, 406566239bytes
+/shuttle/missions/sts-71/movies/sts-71-mir-dock-2.mpg, 338153564bytes
+/shuttle/technology/sts-newsref/stsref-toc.html, 282212689bytes
